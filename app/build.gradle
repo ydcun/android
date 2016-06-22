@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+    compileSdkVersion 20
+    buildToolsVersion "20"
 
     defaultConfig {
         applicationId "com.ydcun.android"
-        minSdkVersion 23
-        targetSdkVersion 23
+        minSdkVersion 20
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
